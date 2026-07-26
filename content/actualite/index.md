@@ -24,6 +24,9 @@ Et bien d'autres... Si vous êtes dans ces zones, nous sommes là pour vous aide
 
 ### Derniers articles
 
+#### - [**Remplacement des liteaux sur toit en tuile mécanique à Chambly (60)** - 24 Juillet 2026](../2026-07-24-remplacement-liteaux-toiture-tuile-mecanique-chambly)
+Dépose des tuiles mécaniques, remplacement complet des liteaux vétustes et repose des tuiles sur une maison à **Chambly** dans l'Oise.
+
 #### - [**Ouverture de mur et pose de porte PVC à Groslay (95)** - 16 Juillet 2026](../2026-07-16-ouverture-mur-pose-porte-groslay)
 Percement de mur, création d'ouverture et pose d'une porte PVC vitrée à **Groslay** dans le Val d'Oise.
 
