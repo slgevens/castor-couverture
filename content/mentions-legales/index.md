@@ -8,7 +8,7 @@ description: "Mentions légales | CASTOR COUVERTURE"
 
 ## Identité de l'éditeur
 
-**Nom ou Raison Sociale** : AC RENOVATION/MONSIEUR ALEXY CLERGE
+**Nom ou Raison Sociale** : AC RENOVATION
 
 **Adresse** : 5 BIS RUE DES GLAISIÈRES 95410 GROSLAY
 
@@ -16,7 +16,7 @@ description: "Mentions légales | CASTOR COUVERTURE"
 
 **Adresse E-mail** : [castorbati@gmail.com](mailto:castorbati@gmail.com)  
 
-**Numéro SIRET** : 91881250400010
+**Numéro SIRET** : 10951130300017
 
 ## Identité de l'hébergeur
 
