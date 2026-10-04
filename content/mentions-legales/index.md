@@ -20,9 +20,9 @@ description: "Mentions légales | CASTOR COUVERTURE"
 
 ## Identité de l'hébergeur
 
-**Nom de l'Hébergeur** : Amazon Web Services EMEA
+**Nom de l'Hébergeur** : Amazon Web Services EMEA SARL
 
-**Adresse de l'Hébergeur** : TOUR CARPE DIEM, 31 PLACE DES COROLLES, 92400 COURBEVOIE
+**Adresse de l'Hébergeur** : 38 Avenue John F. Kennedy, L-1855 Luxembourg
 
 **Numéro de Téléphone** : Non communiqué
 
